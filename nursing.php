@@ -1,7 +1,7 @@
 <?php include('header.php') ?>
 <main>
   <!--? Hero Start -->
-  <div class="slider-area2">
+  <div class="slider-area2" style="background-image: url(/assets/img/hero/nursing.jpeg);">
     <div class="slider-height2 hero-overly2 d-flex align-items-center">
       <div class="container">
         <div class="row">
