@@ -80,7 +80,7 @@
                                 <div class="logo">
                                     <a href="index.php">
                                         <h1>
-                                            <span style="color: #dda721">Nest</span><span style="color: #65ad23">ease</span><span style="color: #07a4c5">care</span><span style="
+                                            <span style="color: #dda721">NEST</span><span style="color: #65ad23">EASE</span><span style="color: #07a4c5">CARE</span><span style="
                             color: #0e4e67;
                             font-size: x-small;
                             font-weight: bold;
