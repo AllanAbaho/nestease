@@ -51,7 +51,7 @@
                                         <a href="landscape.php"> Landscape Management</a>
                                     </li>
                                     <li><a href="nursing.php">Bedside & Nursing Care</a></li>
-                                    <li><a href="training.php">Training Services</a></li>
+                                    <li><a href="training.php">Consultancy Services</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -69,6 +69,7 @@
                                         <a href="index.php#services"> Services</a>
                                     </li>
                                     <li><a href="index.php#contact">Contact</a></li>
+                                    <li><a href="gallery.php">Gallery</a></li>
                                 </ul>
                             </div>
                         </div>

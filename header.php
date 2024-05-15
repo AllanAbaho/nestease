@@ -79,13 +79,13 @@
                             <div class="col-xl-4 col-lg-4">
                                 <div class="logo">
                                     <a href="index.php">
-                                        <h3>
+                                        <h1>
                                             <span style="color: #dda721">Nest</span><span style="color: #65ad23">ease</span><span style="color: #07a4c5">care</span><span style="
                             color: #0e4e67;
                             font-size: x-small;
                             font-weight: bold;
                           ">LTD</span>
-                                        </h3>
+                                        </h1>
                                     </a>
                                 </div>
                             </div>
@@ -99,6 +99,7 @@
                                                 <li><a href="about.php">About</a></li>
                                                 <li><a href="index.php#services">Services</a></li>
                                                 <li><a href="index.php#contact">Contact</a></li>
+                                                <li><a href="gallery.php">Gallery</a></li>
                                             </ul>
                                         </nav>
                                     </div>

@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-xl-12">
             <div class="hero-cap hero-cap2 text-center">
-              <h2>Training and consultancy services</h2>
+              <h2>Consultancy services</h2>
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@
           <!-- Section Tittle -->
           <div class="section-tittle mb-30">
             <span>Service Detail</span>
-            <h2>Training and consultancy services</h2>
+            <h2>Consultancy services</h2>
           </div>
         </div>
       </div>

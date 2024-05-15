@@ -178,7 +178,7 @@
             </div>
             <div class="cat-cap">
               <h5>
-                <a href="training.php">Training and consultancy services</a>
+                <a href="training.php">Consultancy services</a>
               </h5>
               <p>
                 We provide custom corporate training solutions and business
@@ -304,8 +304,7 @@
         <div class="col-xl-7 col-lg-9 col-md-8">
           <div class="wantToWork-caption wantToWork-caption2">
             <h2>
-              Are you Searching<br />
-              For a First-Class Consultant?
+              Interested in any of our services
             </h2>
           </div>
         </div>
