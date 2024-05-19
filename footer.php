@@ -29,6 +29,7 @@
                                 <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                                 <div class="media-body">
                                     <h3 style="color: grey;">+256 759681153</h3>
+                                    <h3 style="color: grey;">+256 774217795</h3>
                                     <p>Mon to Sat 6am to 10pm</p>
                                 </div>
                             </div>

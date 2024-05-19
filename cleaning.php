@@ -43,10 +43,9 @@
         <div class="about-details-cap mb-30">
           <h4>We provide services to</h4>
           <ul>
-            <li>
-              ▪ Office buildings </li>
+            <li> ▪ Office buildings </li>
             <li> ▪ Hospitals </li>
-            <li>▪ Banks</li>
+            <li> ▪ Banks</li>
             <li> ▪ Universities and
               schools</li>
             <li> ▪ Apartments</li>

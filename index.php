@@ -379,7 +379,7 @@
           </form>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7328282451135!2d32.62262387577792!3d0.37508079962124274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dba022bb16955%3A0xdd562aa26af88daf!2sNajjera%20Hospital!5e0!3m2!1sen!2sug!4v1715605441034!5m2!1sen!2sug" style="border:0; width:100%; height:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15958.891345472128!2d32.630738!3d0.3963941!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177db0aa41986273%3A0x39d863cc6a9aa316!2sGudie%20Leisure%20Farm!5e0!3m2!1sen!2sug!4v1716122122811!5m2!1sen!2sug" style="border:0; width:100%; height:100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
 
