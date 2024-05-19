@@ -3,7 +3,28 @@
   <!-- slider Area Start-->
   <div class="slider-area">
     <div class="slider-active">
-
+      <!-- Single Slider -->
+      <div class="single-slider slider-height d-flex align-items-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-8 col-lg-7 col-md-8">
+              <div class="hero__caption">
+                <span data-animation="fadeInLeft" data-delay=".1s">Accountability</span>
+                <h1 data-animation="fadeInLeft" data-delay=".5s">
+                  Consultancy services
+                </h1>
+                <p data-animation="fadeInLeft" data-delay=".9s">
+                  We provide a range of cosultancy services: Finance, Health, Human Resource Management, Project Planning & Management, Tourism, Education and Agribusiness.
+                </p>
+                <!-- Hero-btn -->
+                <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
+                  <a href="training.php" class="btn hero-btn">Read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <!-- Single Slider -->
       <div class="single-slider slider-height d-flex align-items-center">
         <div class="container">
@@ -77,30 +98,7 @@
           </div>
         </div>
       </div>
-      <!-- Single Slider -->
-      <div class="single-slider slider-height d-flex align-items-center">
-        <div class="container">
-          <div class="row">
-            <div class="col-xl-8 col-lg-7 col-md-8">
-              <div class="hero__caption">
-                <span data-animation="fadeInLeft" data-delay=".1s">Accountability</span>
-                <h1 data-animation="fadeInLeft" data-delay=".5s">
-                  Consultancy services
-                </h1>
-                <p data-animation="fadeInLeft" data-delay=".9s">
-                  We can also help you with a learning and development (L&D)
-                  strategy which outlines how you’ll develop the workforce’s
-                  capabilities, skills, and competencies.
-                </p>
-                <!-- Hero-btn -->
-                <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
-                  <a href="training.php" class="btn hero-btn">Read More</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+
     </div>
   </div>
   <!-- slider Area End-->
