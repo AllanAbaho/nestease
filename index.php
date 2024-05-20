@@ -9,16 +9,15 @@
           <div class="row">
             <div class="col-xl-8 col-lg-7 col-md-8">
               <div class="hero__caption">
-                <span data-animation="fadeInLeft" data-delay=".1s">Accountability</span>
                 <h1 data-animation="fadeInLeft" data-delay=".5s">
-                  Consultancy services
+                  NestEaseCare
                 </h1>
                 <p data-animation="fadeInLeft" data-delay=".9s">
-                  We provide a range of cosultancy services: Finance, Health, Human Resource Management, Project Planning & Management, Tourism, Education and Agribusiness.
+                  We provide a range of consultancy services in the following sectors: Finance Management, Health, Human Resource Management, Project Planning & Management, Tourism, Software, Education and Agribusiness.
                 </p>
                 <!-- Hero-btn -->
                 <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
-                  <a href="training.php" class="btn hero-btn">Read More</a>
+                  <a href="about.php" class="btn hero-btn">About Us</a>
                 </div>
               </div>
             </div>
@@ -26,7 +25,7 @@
         </div>
       </div>
       <!-- Single Slider -->
-      <div class="single-slider slider-height d-flex align-items-center">
+      <!-- <div class="single-slider slider-height d-flex align-items-center">
         <div class="container">
           <div class="row">
             <div class="col-xl-8 col-lg-7 col-md-8">
@@ -41,7 +40,6 @@
                   expectations in regards to effectiveness, cost,
                   environment and customer satisfaction.
                 </p>
-                <!-- Hero-btn -->
                 <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
                   <a href="cleaning.php" class="btn hero-btn">Read More</a>
                 </div>
@@ -49,9 +47,9 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- Single Slider -->
-      <div class="single-slider slider-height d-flex align-items-center">
+      <!-- <div class="single-slider slider-height d-flex align-items-center">
         <div class="container">
           <div class="row">
             <div class="col-xl-8 col-lg-7 col-md-8">
@@ -65,7 +63,6 @@
                   personal and professional care they need, both in hospital
                   and in the comfort of their own home.
                 </p>
-                <!-- Hero-btn -->
                 <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
                   <a href="nursing.php" class="btn hero-btn">Read More</a>
                 </div>
@@ -73,9 +70,9 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <!-- Single Slider -->
-      <div class="single-slider slider-height d-flex align-items-center">
+      <!-- <div class="single-slider slider-height d-flex align-items-center">
         <div class="container">
           <div class="row">
             <div class="col-xl-8 col-lg-7 col-md-8">
@@ -89,7 +86,6 @@
                   out the richness of your facility, creating a lasting
                   first impression that signifies beauty and quality.
                 </p>
-                <!-- Hero-btn -->
                 <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
                   <a href="landscape.php" class="btn hero-btn">Read More</a>
                 </div>
@@ -97,7 +93,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </div>

@@ -35,8 +35,7 @@
             and professional care they need, both in hospital and in the comfort of their own
             home.</p>
           <p> We provide specialized medical care for people living with serious illness such as
-            cancer, heart failure, and chronic obstructive pulmonary disease, dementia or
-            Parkinson’s disease.</p>
+            cancer, stroke, diabetes, dementia and other mental illnesses.</p>
           <p>
             We provide nurses, nutritionists and specialized doctors who can provide palliative
             care at home along with the treatment intended to cure such illnesses. Our medical

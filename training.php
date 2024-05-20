@@ -41,14 +41,17 @@
         <div class="about-details-cap mb-50">
           <h4>Our services include</h4>
           <ul>
-            <li>
-              ▪ Research and development </li>
-            <li> ▪ Strategy development </li>
-            <li>▪ Management training</li>
+            <li> ▪ Research and development </li>
+            <li> ▪ Finance Management </li>
+            <li> ▪ Health Management</li>
             <li> ▪ Advisory and facilitation</li>
-            <li> ▪ Enterprise development</li>
-            <li> ▪ Evaluation and impact </li>
-            </li>
+            <li> ▪ Human Resource Management</li>
+            <li> ▪ Project Planning </li>
+            <li> ▪ Project Management </li>
+            <li> ▪ Tourism & Hospitality </li>
+            <li> ▪ Software Development </li>
+            <li> ▪ Education Management </li>
+            <li> ▪ Agribusiness </li>
           </ul>
         </div>
       </div>

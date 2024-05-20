@@ -3567,10 +3567,12 @@ hero-btn {
 /* line 37, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
 .slider-area {
   margin-top: -1px;
-  background-image: url(../img/hero/h1_hero.jpg);
+  background-image: url(../img/hero/banner.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  /* filter: brightness(50%); */
+  background-color: #000000;
 }
 
 /* line 43, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
@@ -3623,7 +3625,7 @@ hero-btn {
   font-size: 85px;
   font-weight: 800;
   margin-bottom: 14px;
-  color: #000000;
+  color: #fff;
   font-family: "Sarabun", sans-serif;
   line-height: 1.2;
   margin-bottom: 33px;
@@ -3671,7 +3673,7 @@ hero-btn {
 /* line 101, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_h1-hero.scss */
 .slider-area .hero__caption p {
   font-size: 16px;
-  color: #000000;
+  color: #fff;
   font-family: "Roboto", sans-serif;
   margin-bottom: 39px;
   margin-bottom: 7px;
