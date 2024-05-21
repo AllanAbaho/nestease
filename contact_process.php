@@ -7,7 +7,7 @@ function sendMail()
 {
     $env = parse_ini_file('.env');
     $apiKey = $env['SENDGRID_API_KEY'];
-    $to = "abahoallans@gmail.com";
+    $to = "nesteasecareltd@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
