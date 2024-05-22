@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>NESTEASE CARE</title>
-    <meta name="description" content="We offer full-fledge of cleaning, compound design and maintenance and nursing care services to our customers" />
+    <meta name="description" content="Expert consultancy services for businesses of all sizes. We offer tailored solutions in strategic planning, financial management, and operational efficiency to help you achieve your goals." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.jpeg" />
 
