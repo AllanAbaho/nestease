@@ -349,7 +349,7 @@
 
               <div class="col-sm-6">
                 <div class="form-group">
-                  <input class="form-control" name="phone" id="subject" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter phone number'" placeholder="Enter Phone Number" />
+                  <input class="form-control" name="phone" id="phone" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter phone number'" placeholder="Enter Phone Number" />
                 </div>
 
               </div>
