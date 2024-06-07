@@ -56,7 +56,7 @@
             <li> ▪ Pre & Postnatal Care.</li>
             <li> ▪ Physiotherapy</li>
             <li> ▪ Counselling </li>
-            <li> ▪ Psychiatric Care</li>
+            <li> ▪ Psycho-social Services</li>
             <li> ▪ Occupational Therapy</li>
             </li>
           </ul>

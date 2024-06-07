@@ -52,6 +52,7 @@
             <li> ▪ Software Development </li>
             <li> ▪ Education Management </li>
             <li> ▪ Agribusiness </li>
+            <li> ▪ Monitoring & Evaluation </li>
           </ul>
         </div>
       </div>
