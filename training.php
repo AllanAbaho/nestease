@@ -42,7 +42,7 @@
           <h4>Our services include</h4>
           <ul>
             <li> ▪ Research & Development </li>
-            <li> ▪ Finance Management </li>
+            <li> ▪ Financial Management </li>
             <li> ▪ Health Management</li>
             <li> ▪ Advisory & facilitation</li>
             <li> ▪ Human Resource Management</li>
