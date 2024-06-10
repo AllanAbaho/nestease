@@ -41,10 +41,10 @@
         <div class="about-details-cap mb-50">
           <h4>Our services include</h4>
           <ul>
-            <li> ▪ Research and development </li>
+            <li> ▪ Research & Development </li>
             <li> ▪ Finance Management </li>
             <li> ▪ Health Management</li>
-            <li> ▪ Advisory and facilitation</li>
+            <li> ▪ Advisory & facilitation</li>
             <li> ▪ Human Resource Management</li>
             <li> ▪ Project Planning </li>
             <li> ▪ Project Management </li>
@@ -53,6 +53,7 @@
             <li> ▪ Education Management </li>
             <li> ▪ Agribusiness </li>
             <li> ▪ Monitoring & Evaluation </li>
+            <li> ▪ Gender & Development </li>
           </ul>
         </div>
       </div>
