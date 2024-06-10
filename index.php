@@ -13,7 +13,7 @@
                   NestEaseCare
                 </h1>
                 <p data-animation="fadeInLeft" data-delay=".9s">
-                  We provide a range of consultancy services in the following sectors: Finance Management, Health, Human Resource Management, Project Planning & Management, Tourism & Hospitality, Software, Monitoring & Evaluation, Education and Agribusiness.
+                  We provide a range of consultancy services in the following sectors: Financial Management, Health Management, Human Resource Management, Hospitality, Education Management and Agribusiness.
                 </p>
                 <!-- Hero-btn -->
                 <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
